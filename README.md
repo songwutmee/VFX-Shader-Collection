@@ -24,8 +24,8 @@ This repository is a growing archive of shader and VFX experiments, each one bui
 
 ### 📦 Projects Included
 
-- **Blur Shader** — A screen-space / material blur shader built for stylized softening effects.
-- **Stylized Smoke VFX** — A VFX Graph particle system paired with a custom Shader Graph, featuring Fresnel-based edge glow and Voronoi-driven noise for a hand-painted smoke look.
+- **Blur Shader & Frosted Glass** - A real time Box Blur system driven by a custom URP Scriptable Renderer Feature. The architecture cleanly separates heavy global blur processing from the visual rendering, featuring a custom HLSL frosted glass material with adjustable blur strength.
+- **Stylized Smoke VFX** - A VFX Graph particle system paired with a custom Shader Graph, featuring Fresnel-based edge glow and Voronoi-driven noise for a hand-painted smoke look.
 
 More shaders and effects will be added here over time as they're finished.
 
